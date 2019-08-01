@@ -8,7 +8,7 @@ This package implements the PubSubEngine Interface from the graphql-subscription
 
 ## Installation
 
-`yarn add graphql-postgres-subscriptions` or `npm install graphql-postgres-subscriptions --save`
+`yarn add @uwatch/graphql-postgres-subscriptions` or `npm install @uwatch/graphql-postgres-subscriptions --save`
 
 ## Usage
 
